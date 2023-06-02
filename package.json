@@ -1,0 +1,17 @@
+{
+  "name": "my-script",
+  "version": "0.0.1",
+  "description": "Devops scripting tool",
+  "main": "index.js",
+  "author": "Nacho<@nandawtek>, Raul<@elferrer>, Javier<@jamarofp>, David<@davidventasmarin>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "supertest": "^6.3.3"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --verbose --runInBand --forceExit"
+  }
+}

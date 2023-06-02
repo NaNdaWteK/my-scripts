@@ -1,0 +1,31 @@
+{
+  "create-text-txt": {
+    "script": "./__tests__/test_support/add-file.sh",
+    "description": "Create a text file",
+    "token": "secret-token",
+    "level": "third-party-services"
+  },
+  "action-without-script": {
+    "description": "Create a text file",
+    "token": "secret-token",
+    "level": "third-party-services"
+  },
+  "action-script-not-found": {
+    "script": "./__tests__/test_support/not-found.sh",
+    "description": "Create a text file",
+    "token": "secret-token",
+    "level": "third-party-services"
+  },
+  "endpoint-without-content": {
+    "script": "./__tests__/test_support/not-found.sh",
+    "description": "Create a text file",
+    "token": "secret-token",
+    "level": "third-party-services"
+  }
+}
+
+
+
+
+
+
