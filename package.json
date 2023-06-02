@@ -4,7 +4,7 @@
   "description": "Devops scripting tool",
   "main": "index.js",
   "author": "Nacho<@nandawtek>, Raul<@elferrer>, Javier<@jamarofp>, David<@davidventasmarin>",
-  "license": "MIT",
+  "license": "LICENSE",
   "private": true,
   "devDependencies": {
     "jest": "^29.5.0",
